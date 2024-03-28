@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     },
     description: "This is description shop",
     images: [
-      "https://i.pinimg.com/736x/f6/99/5d/f6995d649dcf5c1ddf7c28560f8cad5b.jpg",
+      "https://i.pinimg.com/564x/cd/6d/ec/cd6dec6d3967cb8e714aa2357b6c3b73.jpg",
     ],
   },
 };
