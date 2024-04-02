@@ -1,4 +1,5 @@
 import DashboardSidebar from "@/components/dashboard/sidebar/DashboardSidebar";
+import UserTable from "@/components/tables/UserTable";
 
 export default function RootLayout({
   children,
@@ -9,6 +10,7 @@ export default function RootLayout({
    <aside className="flex">
    <DashboardSidebar/>
     {children}
+    <UserTable/>
    </aside>
   );
 }
